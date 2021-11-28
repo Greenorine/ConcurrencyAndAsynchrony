@@ -1,4 +1,8 @@
 # ConcurrencyAndAsynchrony
+## При синхронной обработке  
+Время выполнения:  
+![pycharm64_xpYV9VSBSz](https://user-images.githubusercontent.com/41028671/143774896-c531ecb4-7c6e-4e1a-ad33-7ee2d5b86c31.png)  
+
 ## При 5 воркерах  
 Время выполнения:  
 ![pycharm64_bvk3HOFVJ6](https://user-images.githubusercontent.com/41028671/143774652-80f1371a-937f-4b23-9eff-a891c43049f0.png)  
